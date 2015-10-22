@@ -259,12 +259,12 @@ namespace OverlayInformation
             switch ((int)Math.Floor((decimal)(_screenX / _screenY * 100)))
             {
                 case 177:
-                    _testX = 1600;
-                    _testY = 900;
+                    _testX = 3840;
+                    _testY = 2160;
 
-                    _panelSize = 55;
-                    _panelHealth = 25.714;
-                    _panelUltimate = 20;
+                    _panelSize = 200;
+                    _panelHealth = 100.714;
+                    _panelUltimate = 80;
 
                     _manaBarX = 42;
                     _manaBarY = 18;
